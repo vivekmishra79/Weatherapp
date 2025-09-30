@@ -76,7 +76,7 @@ function Weathercomp() {
             <p>Degree: {weather.wind.deg}&deg;C</p>
           </div>
       </div>:
-      <p className='w'>Please Enter City to Get Waether</p>
+      <p className='w'>Please Enter City to Get Weather</p>
       }
       
         </Container>
